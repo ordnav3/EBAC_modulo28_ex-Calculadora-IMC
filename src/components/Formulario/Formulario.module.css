@@ -1,0 +1,35 @@
+.title{
+    text-align: center;
+    margin: 24px;
+}
+
+.form{
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    padding: 8px;
+    margin: 0 5px;
+    font-size: 20px;
+}
+
+.res{
+    text-align: center;
+    margin-bottom: 16px;
+    font-size: 20px;
+}
+
+.res b{
+    font-size: 24px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    padding: 2px;
+}
+
